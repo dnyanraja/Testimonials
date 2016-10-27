@@ -1,5 +1,5 @@
 # Testimonials
-This plugin creates custom post called testimonials, where you can add testimonials for your site. 
+This plugin creates custom post called testimonials through which user can add testimonials to the site. Then there are different shortcodes available to display those testimonials in different way like slider, carousel or plain text.
 
 To display testimonials list
  Usage : 	[list-testimonials]
